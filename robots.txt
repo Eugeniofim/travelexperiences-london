@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://travelexperiences.london/sitemap.xml
